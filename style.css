@@ -1,0 +1,190 @@
+.bg-container {
+    background-color: #141a2b;
+    height: 250vh;
+    width: 100vw;
+    background-size: cover;
+
+}
+.bg-container2{
+    background-color:black;
+    margin-bottom:10px;
+    height:10vh;
+    width: 100vw;
+    background-size: cover;
+.tq-heading{
+    color:#1dd5db;
+    font-size:20px;
+    font-weight:bold;
+}
+}
+#nav-item3 {
+    color: white;
+    margin: 10px;
+    font-size: 20px;
+    font-family: "roboto";
+    border: 2px solid transparent;
+}
+
+#nav-item3:hover {
+    border: 2px solid #1dd5db;
+}
+
+.heading {
+    color: white;
+    margin-left: 15px;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: "roboto";
+}
+
+span {
+    color: #1dd5db;
+    font-family: Sans-Serif;
+    font-weight: bold;
+}
+
+#border {
+    border: 2px solid transparent;
+}
+
+#border:hover {
+    border: 2px solid #1dd5db;
+}
+
+.heading-port {
+    margin-top: 100px;
+    margin-right: 420px;
+    margin-bottom: 50px;
+}
+
+.main-heading {
+    color: white;
+    background-color: #1dd5db;
+    width: 13vw;
+    height: 5vh;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.follow {
+    color: #1dd5db;
+}
+
+h1 {
+    color: white;
+    font-size: 70px;
+}
+
+p {
+    font-size: 40px;
+    color: white;
+    font-family: "roboto";
+}
+
+.image-logo {
+    height:300px;
+    width:300px;
+    background-size: cover;
+    border-radius:50%;
+    margin-top: 100px;
+    margin-right: 200px;
+    border:4px solid  #1dd5db;
+}
+.btn{
+    color:white;
+    background-color:transparent;
+    border-radius:10px;
+    border:2px solid #1dd5db;
+    margin-left:160px;
+}
+.icon-container {
+    margin: 20px;
+    background-color: #1dd5db;
+    border-radius: 30px;
+}
+
+#border {
+    border: 2px solid transparent;
+}
+
+#border:hover {
+    border: 5px solid white;
+}
+
+.icon {
+    font-size: 40px;
+    padding: 10px;
+}
+.content{
+    color:rgb(64, 199, 199);
+    font-size:30px;
+    font-family:"Roboto";
+    margin-left:40px;
+    font-weight:bold;
+}
+.paragraph{
+    color:white;
+    font-size:20px;
+    font-family:"san serif";
+    margin-left:50px;
+}
+.skill1{
+    color:white;
+    font-size:10px;
+    background-color: #1dd5db;
+    width:48vw;
+    margin-left:80px;
+    padding:5px;
+    border-radius:10px
+}
+.para2{
+    color:white;
+    font-size:10px;
+    text-align:center;
+}
+.skill2{
+    color:white;
+    font-size:10px;
+    background-color: #1dd5db;
+    width:48vw;
+    margin-left:80px;
+    padding:5px;
+    border-radius:10px
+}
+.para2{
+    color:white;
+    font-size:10px;
+    text-align:center;
+}
+.skill3{
+    color:white;
+    font-size:10px;
+    background-color: #1dd5db;
+    width:25vw;
+    margin-left:80px;
+    padding:5px;
+    border-radius:10px
+}
+.para2{
+    color:white;
+    font-size:10px;
+    text-align:center;
+}
+.skill4{
+    color:white;
+    font-size:10px;
+    background-color: #1dd5db;
+    width:25vw;
+    margin-left:80px;
+    padding:5px;
+    border-radius:10px
+}
+.para2{
+    color:white;
+    font-size:10px;
+    text-align:center;
+}
+.con{
+    margin:20px;
+    margin-bottom:30px;
+}
